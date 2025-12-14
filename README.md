@@ -10,7 +10,7 @@ The dashboard utilizes sample Superstore data (or specify your data source) to a
 * Geographic sales distribution (Sales by State/Region).
 * Product-level performance (Sales and Profit by Sub-Category).
 
-  https://github.com/YoussefHamedddd/Sales-Dashboard-/blob/main/Dashboard.jpg?raw=true
+![Dashboard photo](https://github.com/YoussefHamedddd/Sales-Dashboard-/blob/main/Dashboard.jpg?raw=true)
 
 ---
 
